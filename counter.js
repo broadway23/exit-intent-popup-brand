@@ -1,5 +1,5 @@
-const START_VALUE = 200000;
-const END_VALUE = 204000;
+const START_VALUE = 300000;
+const END_VALUE = 304000;
 const CAMPAIGN_START_UTC = Date.UTC(2025, 3, 17, 0, 0, 0);
 const CAMPAIGN_MS = 7 * 24 * 60 * 60 * 1000;
 
