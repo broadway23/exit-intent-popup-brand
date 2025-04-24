@@ -1,8 +1,8 @@
 /* counter.js  – a self-contained, reusable live counter  */
 (function () {
   /* ============== EDIT THESE NUMBERS ONLY ============== */
-  const START_VALUE        = 200000;                      // counter start
-  const END_VALUE          = 205000;                      // counter end
+  const START_VALUE        = 400000;                      // counter start
+  const END_VALUE          = 405000;                      // counter end
   const CAMPAIGN_START_UTC = Date.UTC(2025, 3, 17, 0, 0); // 17 Apr 2025 00:00 UTC
   const CAMPAIGN_MS        = 7 * 24 * 60 * 60 * 1000;     // campaign length (ms)
   /* ===================================================== */
