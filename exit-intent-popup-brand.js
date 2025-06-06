@@ -102,7 +102,7 @@ window.addEventListener("DOMContentLoaded", function () {
             class="popup-image"
           >
           <p>Hurry! Time–Limited Welcome Offer:</p>
-          <p>Get 150 Free Spins Now!</p>
+          <p>Get <s>100</s> 150 Free Spins Now!</p>
 
           <div class="countdown-wrapper">
             <div class="countdown-container-desktop">
