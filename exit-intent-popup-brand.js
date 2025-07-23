@@ -320,7 +320,7 @@
 #claim-btn {
   background: linear-gradient(#ffc700, #d4af37, #f7e374);
   color: #1c1c1c;
-  font: 700 1.2rem "Playfair Display", serif;
+  font: 700 1.2rem "Inter", sans-serif;
   text-transform: uppercase;
   padding: 12px 24px;
   border: none;
